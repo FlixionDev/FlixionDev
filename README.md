@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Aspiring Full Stack Web Developer, Learning MERN Stack at Masai School</h3>
-<img align="right" alt="GIF" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400px" height="350px"/>
+<img align="right" alt="GIF" src="/image.gif" width="400px" height="350px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flixiondev&label=Profile%20views&color=0e75b6&style=flat" alt="flixiondev" /> </p>
 
