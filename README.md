@@ -28,6 +28,6 @@
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flixiondev&show_icons=true&locale=en" alt="flixiondev" /></p>
-  
+  <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flixiondev&" alt="flixiondev" /></p>
