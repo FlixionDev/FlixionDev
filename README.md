@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Email](mailto:adityasingh200141@gmail.com) & [LinkedIn](https://www.linkedin.com/in/aditya-singh-80b55823b/)
 
-- 📄 Know about my experiences [Resume](https://mega.nz/file/tjQ1TQoZ#lV58wpJgJMwnxy4FCIFznidji78JiURKxV2ibmglg5A)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OU30GDPklL3b1R2NtHGHtWP7W95FILEn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
