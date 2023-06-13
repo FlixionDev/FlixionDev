@@ -26,16 +26,8 @@
 
 <h3 align="left">Github Stats</h3>
   <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flixiondev&show_icons=true&locale=en&layout=compact" alt="flixiondev" /></p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img align="left" style="width:51%" src="https://github-readme-stats.vercel.app/api/top-langs?username=flixiondev&show_icons=true&locale=en&layout=compact" alt="flixiondev" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=flixiondev&show_icons=true&locale=en" alt="flixiondev" /></p>
-  <br/>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=flixiondev&" alt="flixiondev" /></p>
+<img align="left" style="width:51%" src="https://github-readme-stats.vercel.app/api?username=flixiondev&show_icons=true&locale=en" alt="flixiondev" />
+<!--   <br/> -->
+<img align="left" style="width:51%" src="https://github-readme-streak-stats.herokuapp.com/?user=flixiondev&" alt="flixiondev" />
