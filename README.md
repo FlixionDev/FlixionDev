@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Something New**
 
-- 🌱 I’m currently learning **Backend.**
+- 🌱 I’m currently exploring **Backend.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aditya-singh-portfolio.netlify.app/) & [Github](https://github.com/FlixionDev)
 
-- 💬 Ask me about **React js,html,css and JavaScripts**
+- 💬 Ask me about **React js,html,css, JavaScripts and Backend**
 
 - 📫 How to reach me [Email](mailto:adityasingh200141@gmail.com) & [LinkedIn](https://www.linkedin.com/in/aditya-singh-80b55823b/)
 
